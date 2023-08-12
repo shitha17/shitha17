@@ -1,6 +1,6 @@
-### Hi there 👋
+### Thanks for visiting my profile 👋
 
-<h1 align="center">Hi 👋, I'm Varshitha</h1>
+<h1 align="center">Hi 👋, I'm Varshitha Krishna Reddy</h1>
 <h3 align="center">Master Student interested in exploring data</h3>
 
 <h3 align="left">Connect with me:</h3>
